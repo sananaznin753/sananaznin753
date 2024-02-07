@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analyst projects.
 - 📫 How to reach me from sananaznin753@gmail.com
 - 😄 This repository contains a comprehensive data analysis and visualization project conducted by Sana Naznin. The project focuses on exploring and analyzing a dataset to derive meaningful insights and communicate findings effectively through visualization.
-- ⚡ 
+- 
 
 <!---
 sananaznin753/sananaznin753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
